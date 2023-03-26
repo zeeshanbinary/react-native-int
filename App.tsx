@@ -1,12 +1,12 @@
 import React from 'react';
-import { Text, View } from 'react-native';
+import Views from './app/Views/Views';
 
 
 function App() {
   return (
-    <View>
-      <Text>Hello World</Text>
-    </View>
+    <>
+      <Views />
+    </>
   );
 }
 
