@@ -1,11 +1,14 @@
 import React from 'react';
-import Buttons from './app/buttons/Buttons';
+import Prop from './app/prop/Prop';
 
 
 function App() {
+  let name = "Zeeshan Ansari";
+  let age = 24;
+  let address = "Bhadohi"
   return (
     <>
-      <Buttons />
+      <Prop name={name} age={age} address={address} />
     </>
   );
 }
