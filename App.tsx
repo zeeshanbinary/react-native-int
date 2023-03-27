@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from './app/component/Header';
+import Buttons from './app/buttons/Buttons';
 
 
 function App() {
   return (
     <>
-      <Header />
+      <Buttons />
     </>
   );
 }
