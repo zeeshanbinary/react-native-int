@@ -1,11 +1,11 @@
 import React from 'react';
-import Views from './app/Views/Views';
+import JSX from './app/JSXS/Jsx';
 
 
 function App() {
   return (
     <>
-      <Views />
+      <JSX />
     </>
   );
 }
