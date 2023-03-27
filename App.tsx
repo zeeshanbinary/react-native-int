@@ -1,11 +1,11 @@
 import React from 'react';
-import JSX from './app/JSXS/Jsx';
+import Header from './app/component/Header';
 
 
 function App() {
   return (
     <>
-      <JSX />
+      <Header />
     </>
   );
 }

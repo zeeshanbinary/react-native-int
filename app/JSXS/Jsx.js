@@ -21,10 +21,10 @@ const styles = StyleSheet.create({
     container: {
         paddingHorizontal: 10,
     },
-    title:{
-        color:'crimson',
-        fontSize:14,
-        fontWeight:'700',
-        textAlign:'center'
+    title: {
+        color: 'crimson',
+        fontSize: 14,
+        fontWeight: '700',
+        textAlign: 'center'
     }
 })
