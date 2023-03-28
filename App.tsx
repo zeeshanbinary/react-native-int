@@ -1,14 +1,11 @@
 import React from 'react';
-import Prop from './app/prop/Prop';
+import InputBox from './app/InputBox/InputBox';
 
 
 function App() {
-  let name = "Zeeshan Ansari";
-  let age = 24;
-  let address = "Bhadohi"
   return (
     <>
-      <Prop name={name} age={age} address={address} />
+     <InputBox />
     </>
   );
 }
