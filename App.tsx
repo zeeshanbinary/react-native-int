@@ -1,11 +1,11 @@
 import React from 'react';
-import InputBox from './app/InputBox/InputBox';
+import Form from './app/form/Form';
 
 
 function App() {
   return (
     <>
-     <InputBox />
+      <Form />
     </>
   );
 }
