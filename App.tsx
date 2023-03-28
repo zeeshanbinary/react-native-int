@@ -1,11 +1,11 @@
 import React from 'react';
-import Form from './app/form/Form';
+import Flat from './app/Flat/Flat';
 
 
 function App() {
   return (
     <>
-      <Form />
+      <Flat />
     </>
   );
 }
