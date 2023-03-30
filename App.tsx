@@ -1,11 +1,11 @@
 import React from 'react';
-import ListComponent from './app/ListComponent/ListComponent';
+import SectionData from './app/section/Section';
 
 
 function App() {
   return (
     <>
-      <ListComponent />
+      <SectionData />
     </>
   );
 }
