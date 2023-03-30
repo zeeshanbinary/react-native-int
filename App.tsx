@@ -1,11 +1,11 @@
 import React from 'react';
-import Grid from './app/grid/Grid';
+import ListComponent from './app/ListComponent/ListComponent';
 
 
 function App() {
   return (
     <>
-      <Grid />
+      <ListComponent />
     </>
   );
 }
