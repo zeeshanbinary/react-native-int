@@ -1,12 +1,11 @@
 import React from 'react';
-import Flat from './app/Flat/Flat';
-import List from './app/list/List';
+import Grid from './app/grid/Grid';
 
 
 function App() {
   return (
     <>
-      <List />
+      <Grid />
     </>
   );
 }
