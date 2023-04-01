@@ -1,11 +1,11 @@
 import React from 'react';
-import StateUnMount from './app/StateUnmount/StateUnmount';
+import Responsive from './app/Responsive/Responsive';
 
 
 function App() {
   return (
     <>
-      <StateUnMount />
+      <Responsive />
     </>
   );
 }
