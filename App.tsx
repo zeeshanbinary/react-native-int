@@ -1,11 +1,11 @@
 import React from 'react';
-import State from './app/State/State';
+import StateUpdate from './app/StateUpdate/StateUpdate';
 
 
 function App() {
   return (
     <>
-      <State />
+      <StateUpdate />
     </>
   );
 }
