@@ -1,11 +1,11 @@
 import React from 'react';
-import Touchable from './app/touchable/Touchable';
+import Loader from './app/Loader/Loader';
 
 
 function App() {
   return (
     <>
-      <Touchable />
+      <Loader />
     </>
   );
 }
