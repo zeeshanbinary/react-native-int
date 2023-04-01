@@ -1,11 +1,11 @@
 import React from 'react';
-import Loader from './app/Loader/Loader';
+import Press from './app/Press/Press';
 
 
 function App() {
   return (
     <>
-      <Loader />
+      <Press />
     </>
   );
 }
