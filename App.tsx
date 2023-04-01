@@ -1,11 +1,11 @@
 import React from 'react';
-import SectionData from './app/section/Section';
+import State from './app/State/State';
 
 
 function App() {
   return (
     <>
-      <SectionData />
+      <State />
     </>
   );
 }
