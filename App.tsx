@@ -1,11 +1,11 @@
 import React from 'react';
-import StateUpdate from './app/StateUpdate/StateUpdate';
+import Toggle from './app/Toggle/Toggle';
 
 
 function App() {
   return (
     <>
-      <StateUpdate />
+      <Toggle />
     </>
   );
 }
