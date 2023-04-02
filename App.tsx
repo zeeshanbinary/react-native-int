@@ -1,11 +1,11 @@
 import React from 'react';
-import BottomNavigation from './app/Bottom';
+import FlatAPi from './app/FlatApi/FlatApi';
 
 
 function App() {
   return (
     <>
-      <BottomNavigation />
+      <FlatAPi />
     </>
   );
 }
