@@ -1,11 +1,11 @@
 import React from 'react';
-import Press from './app/Press/Press';
+import BottomNavigation from './app/Bottom';
 
 
 function App() {
   return (
     <>
-      <Press />
+      <BottomNavigation />
     </>
   );
 }
